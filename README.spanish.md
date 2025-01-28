@@ -1,4 +1,5 @@
 [✔]: assets/images/checkbox-small-blue.png
+#realizo una copia
 
 # Mejores prácticas de NodeJS
 
